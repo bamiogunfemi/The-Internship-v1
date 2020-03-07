@@ -4,8 +4,8 @@ ___
 AbdulQudus Adebogun <br/>
 Front-end Mobile: React Native
 ___
-Name <br/>
-Track
+Arafah Ayobami Ogunfemi <br/>
+Front-end: React
 ___
 Name <br/>
 Track
